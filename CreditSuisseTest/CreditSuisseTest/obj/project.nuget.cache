@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "NaR7G+4yVD1F42PODuHZYx91JN5S7dbkwdB46uulzDojXrH5/XnqObp5d8cZy/32QkpmAPlTmIBW+OYi7taFZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EdemirAlvesRodrigues\\source\\repos\\CreditSuisseTest\\CreditSuisseTest\\CreditSuisseTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EdemirAlvesRodrigues\\.nuget\\packages\\enums.net\\4.0.0\\enums.net.4.0.0.nupkg.sha512",
+    "C:\\Users\\EdemirAlvesRodrigues\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\EdemirAlvesRodrigues\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\EdemirAlvesRodrigues\\.nuget\\packages\\npoi\\2.5.6\\npoi.2.5.6.nupkg.sha512",
+    "C:\\Users\\EdemirAlvesRodrigues\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\portable.bouncycastle.1.8.9.nupkg.sha512",
+    "C:\\Users\\EdemirAlvesRodrigues\\.nuget\\packages\\sharpziplib\\1.3.3\\sharpziplib.1.3.3.nupkg.sha512",
+    "C:\\Users\\EdemirAlvesRodrigues\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\EdemirAlvesRodrigues\\.nuget\\packages\\system.drawing.common\\4.5.0\\system.drawing.common.4.5.0.nupkg.sha512",
+    "C:\\Users\\EdemirAlvesRodrigues\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\EdemirAlvesRodrigues\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\EdemirAlvesRodrigues\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\EdemirAlvesRodrigues\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\EdemirAlvesRodrigues\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
